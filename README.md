@@ -2,7 +2,6 @@
 Wordle 1
 
 * Team members: Anjnesh Sharma, Yunpeng Guo, Renjie Xu
-* Project presentation: https://github.com/class-data-mining-master/2022-spring-dm-project-2022-spring-team01-wellerman/blob/2d7de6b5469fcd63304463e707555ab4e045ee38/Presentation.pdf
 * Project paper: https://github.com/class-data-mining-master/2022-spring-dm-project-2022-spring-team01-wellerman/blob/2d7de6b5469fcd63304463e707555ab4e045ee38/Project%20paper.pdf
 
 ## Description
