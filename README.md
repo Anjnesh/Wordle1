@@ -12,10 +12,6 @@ The Wordle source code contains 2,315 days of answers that are all common 5-lett
 
 directories of this repository:
 |-- Readme.md                             // help file
-|-- progress-report-Wordle 1.Rmd          // interim report
-|-- progress-report-Wordle 1.html
-|-- progress-report-templete.Rmd          // template of interim report
-|-- progress-report-templete.html
 |-- requirement.txt                       // additional required python package
 |-- wordle16.ipynb                        // Performs the word prediction
 |-- word simulation.ipynb                 // Performs word simulations and saves results as pickle files
