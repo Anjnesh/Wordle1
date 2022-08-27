@@ -1,7 +1,6 @@
 # Project title (2022 Spring DM)
 Wordle 1
 
-* Team members: Anjnesh Sharma, Yunpeng Guo, Renjie Xu
 * Project paper: https://github.com/class-data-mining-master/2022-spring-dm-project-2022-spring-team01-wellerman/blob/2d7de6b5469fcd63304463e707555ab4e045ee38/Project%20paper.pdf
 
 ## Description
@@ -33,10 +32,6 @@ Python packages required for wordle16: pickle
 Python packages required for word simulation: ray, pickle
 Other requirements: Since the tweepy is the twitter's official package for scraping data from twitter, a twitter developer account is needed and due to the license it will not be provided in this repository.
 
-
-## Acknowledgments
-
-We would like to expresss our gratitude to Dr. Yuru Lin for her teaching of the data mining processes that inspired us to dig knowledge from the user tweets data and apply them to solve the world puzzle. Also, we would like to thank twitter for providing powerful api to acquire the data we need in a much easier way.
 
 
 ## License
