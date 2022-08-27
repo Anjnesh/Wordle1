@@ -33,10 +33,6 @@ Python packages required for wordle16: pickle
 Python packages required for word simulation: ray, pickle
 Other requirements: Since the tweepy is the twitter's official package for scraping data from twitter, a twitter developer account is needed and due to the license it will not be provided in this repository.
 
-## Authors
-Anjnesh Sharma: ans458@pitt.edu
-Yunpeng Guo: yug64@pitt.edu
-Renjie Xu: rj.xu@pitt.edu
 
 ## Acknowledgments
 
